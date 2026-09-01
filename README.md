@@ -1,7 +1,7 @@
 # Amazon.sa Price Tracker
 
 A small scraper that pulls a product's price, rating, and brand from **Amazon.sa** and logs each check to a CSV, so the price can be tracked over time.
-Used for educational purposes 
+Used for educational purposes.
 
 ## Tech stack
 
