@@ -5,9 +5,9 @@ Used for educational purposes.
 
 ## Tech stack
 
-- **BeautifulSoup** + **Requests** — page scraping
-- **Pandas** — reading back and inspecting the collected data
-- **CSV** — lightweight storage for price history
+- **BeautifulSoup** + **Requests**  page scraping
+- **Pandas**  reading back and inspecting the collected data
+- **CSV**  lightweight storage for price history
 
 ## How it works
 
